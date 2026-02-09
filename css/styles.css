@@ -24,6 +24,7 @@ img{
   margin: 0 20px;
 }
 
-.slide {
-  
+.slide{
+  display: flex;
+  transition: .3s;
 }
